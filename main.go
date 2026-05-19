@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/yourname/kb/cmd"
+	"github.com/yourname/kb-vault/cmd"
 )
 
 func main() {

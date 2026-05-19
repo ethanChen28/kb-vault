@@ -1,4 +1,4 @@
-# kb - Personal Research Vault CLI
+# kb-vault - Personal Research Vault CLI
 
 Local-first, Git-native, LLM-ready personal knowledge base CLI.
 
@@ -15,13 +15,13 @@ Local-first, Git-native, LLM-ready personal knowledge base CLI.
 
 ```bash
 # From source
-go install github.com/yourname/kb@latest
+go install github.com/ethanChen28/kb-vault@latest
 
 # Or build manually
-git clone https://github.com/yourname/kb.git
-cd kb
-go build -o kb .
-sudo cp kb /usr/local/bin/
+git clone https://github.com/ethanChen28/kb-vault.git
+cd kb-vault
+go build -o kb-vault .
+sudo cp kb-vault /usr/local/bin/
 ```
 
 ## Quick Start
@@ -80,7 +80,7 @@ llm:
 ## Project Structure
 
 ```
-kb/
+kb-vault/
 ├── cmd/              # CLI commands
 ├── internal/
 │   ├── config/       # Configuration

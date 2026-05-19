@@ -1,4 +1,4 @@
-module github.com/yourname/kb
+module github.com/yourname/kb-vault
 
 go 1.25.0
 

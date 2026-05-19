@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yourname/kb/internal/config"
-	"github.com/yourname/kb/internal/extractor"
+	"github.com/yourname/kb-vault/internal/config"
+	"github.com/yourname/kb-vault/internal/extractor"
 
 	"gopkg.in/yaml.v3"
 )

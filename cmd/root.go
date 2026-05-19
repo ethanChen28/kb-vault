@@ -5,10 +5,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/yourname/kb/internal/config"
-	"github.com/yourname/kb/internal/extractor"
-	"github.com/yourname/kb/internal/gitlib"
-	"github.com/yourname/kb/internal/storage"
+	"github.com/yourname/kb-vault/internal/config"
+	"github.com/yourname/kb-vault/internal/extractor"
+	"github.com/yourname/kb-vault/internal/gitlib"
+	"github.com/yourname/kb-vault/internal/storage"
 
 	"github.com/spf13/cobra"
 )
